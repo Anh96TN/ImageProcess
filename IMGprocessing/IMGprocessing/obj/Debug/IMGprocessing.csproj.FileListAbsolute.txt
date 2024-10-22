@@ -1,0 +1,100 @@
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe.config
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.pdb
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Form1.resources
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Properties.Resources.resources
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.GenerateResource.cache
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CoreCompileInputs.cache
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.exe
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.pdb
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\bin\Debug\OpenCvSharp.dll
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\bin\Debug\OpenCvSharp.Extensions.dll
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\Non_Documents\CODE\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CopyComplete
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe.config
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.pdb
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csprojAssemblyReference.cache
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Form1.resources
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Properties.Resources.resources
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.GenerateResource.cache
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CoreCompileInputs.cache
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CopyComplete
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.exe
+D:\Non_Documents\CODE\CODE MAU\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.pdb
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe.config
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.pdb
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csprojAssemblyReference.cache
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Form1.resources
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Properties.Resources.resources
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.GenerateResource.cache
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CoreCompileInputs.cache
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CopyComplete
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.exe
+D:\VISION\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.pdb
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe.config
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.pdb
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csprojAssemblyReference.cache
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Properties.Resources.resources
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.GenerateResource.cache
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CoreCompileInputs.cache
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CopyComplete
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.exe
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.pdb
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Main.resources
+D:\VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\OpenCvSharp.Blob.dll.config
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe.config
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.pdb
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Main.resources
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Properties.Resources.resources
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.GenerateResource.cache
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CoreCompileInputs.cache
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CopyComplete
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.exe
+D:\1_VISION\CODE DOWNLOAD\CODE MAU\NA\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.pdb
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe.config
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.exe
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\IMGprocessing.pdb
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Main.resources
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Properties.Resources.resources
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.GenerateResource.cache
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CoreCompileInputs.cache
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.CopyComplete
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.exe
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.pdb
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\dll\x86\opencv_videoio_ffmpeg4100.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\dll\x64\opencv_videoio_ffmpeg4100_64.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\OpenCvSharp.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\OpenCvSharp.Extensions.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Buffers.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Drawing.Common.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Memory.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Numerics.Vectors.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.ValueTuple.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\OpenCvSharp.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\OpenCvSharp.Extensions.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Buffers.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Drawing.Common.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Memory.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Numerics.Vectors.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.ValueTuple.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Frm_Pattem.resources
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Frm_LearnML.resources
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\EPPlus.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\EPPlus.Interfaces.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\EPPlus.System.Drawing.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\System.ComponentModel.Annotations.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\EPPlus.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\BetterFolderBrowser.dll
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\bin\Debug\BetterFolderBrowser.xml
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.csproj.AssemblyReference.cache
+D:\1_VISION\3_TRAINNING_VNU\Project_1\IMGprocessing\IMGprocessing\obj\Debug\IMGprocessing.Frm_CNN.resources
